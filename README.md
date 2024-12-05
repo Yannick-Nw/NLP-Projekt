@@ -1,7 +1,7 @@
 # Sentiment Analysis of IMDB Movie Reviews (NLP-Project)
 
 ## Project Overview
-This project focuses on classifying movie reviews from IMDB as either positive or negative using two approaches:
+This project focuses on classifying movie reviews from IMDB (https://www.kaggle.com/datasets/abdallahwagih/imdb-movie-reviews) as either positive or negative using two approaches:
 - **Classic Machine Learning:** Naive Bayes.
 - **Deep Learning:** LSTM (Long Short-Term Memory).
 
