@@ -1,5 +1,4 @@
-# NLP-Projekt
-# Sentiment Analysis of IMDB Movie Reviews
+# Sentiment Analysis of IMDB Movie Reviews (NLP-Project)
 
 ## Project Overview
 This project focuses on classifying movie reviews from IMDB as either positive or negative using two approaches:
